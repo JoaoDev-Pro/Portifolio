@@ -123,6 +123,11 @@ section {
     border: none;
 }
 
+.btn-primary::after {
+  content: " \279E";
+  margin-left: 8px;
+}
+
 .btn-outline:hover {
     background: linear-gradient(90deg, rgba(142, 148, 153, 1) 0%, rgba(27, 60, 83, 1) 35%, rgba(27, 60, 83, 1) 100%);
     color: white;
