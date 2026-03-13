@@ -1,4 +1,4 @@
-# 💼 Portfólio - João Victor | DesenvolvedorFront-end 
+# 💼 Portfólio - João Victor | Desenvolvedor Front-end 
 
 Este repositório contém o código do meu portfólio profissional, desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor Front-end.
 
@@ -17,7 +17,7 @@ O portfólio possui:
 - Formulário de contato funcional
 - Integração para envio de e-mails com EmailJS
 - Botão de contato direto via WhatsApp
-- Deploy em produção
+- Deploy em Vercel
 
 ---
 
