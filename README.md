@@ -6,8 +6,6 @@ Este repositório contém o código do meu portfólio profissional, desenvolvido
 
 [![Preview do Portfólio](assets/preview.png)](https://joaodev-pro.vercel.app)
 
----
-
 ## 🚀 Sobre o Projeto
 
 Este projeto foi desenvolvido durante meus estudos em programação para consolidar conhecimentos em desenvolvimento web e criar um espaço profissional para apresentar meus trabalhos.
