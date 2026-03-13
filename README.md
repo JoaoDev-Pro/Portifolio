@@ -4,7 +4,7 @@ Este repositório contém o código do meu portfólio profissional, desenvolvido
 
 ## 📸 Preview do Projeto
 
-![Preview do Portfólio](./assets/preview.png)
+[![Preview do Portifólio](assets/preview.png)](https://joaodev-pro.vercel.app)
 
 ## 🚀 Sobre o Projeto
 
