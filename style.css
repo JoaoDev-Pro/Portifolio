@@ -3,7 +3,6 @@
     --bg-color: #050a0e;
     --card-bg: #0b1118;
     --primary-blue: #00a3ff;
-    /* Azul vibrante dos botões */
     --accent-deep: #1B3C53;
     --accent-mid: #234C6A;
     --accent-light: #456882;
@@ -591,11 +590,20 @@ section {
     margin: 0 auto;
 }
 
+
+.contato-info {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
 .contato-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 60px;
+    align-items: flex-start; /* ESSENCIAL */
 }
+
 
 .info-item {
     display: flex;
@@ -633,15 +641,26 @@ section {
     letter-spacing: 1px;
 }
 
+.social-links {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
 .social-links a {
-    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
     color: var(--text-gray);
     font-weight: 600;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
+    transition: 0.3s;
 }
 
 .social-links a:hover {
     color: var(--primary-blue);
+    transform: translateY(-2px);
 }
 
 .contato-form {
